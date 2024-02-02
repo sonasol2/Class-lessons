@@ -1,0 +1,15 @@
+/Users/sergejpopovic/Projects/Class-lessons/Class-lessons/obj/Debug/net7.0/Class-lessons.csproj.AssemblyReference.cache
+/Users/sergejpopovic/Projects/Class-lessons/Class-lessons/obj/Debug/net7.0/Class-lessons.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sergejpopovic/Projects/Class-lessons/Class-lessons/obj/Debug/net7.0/Class-lessons.AssemblyInfoInputs.cache
+/Users/sergejpopovic/Projects/Class-lessons/Class-lessons/obj/Debug/net7.0/Class-lessons.AssemblyInfo.cs
+/Users/sergejpopovic/Projects/Class-lessons/Class-lessons/obj/Debug/net7.0/Class-lessons.csproj.CoreCompileInputs.cache
+/Users/sergejpopovic/Projects/Class-lessons/Class-lessons/bin/Debug/net7.0/Class-lessons
+/Users/sergejpopovic/Projects/Class-lessons/Class-lessons/bin/Debug/net7.0/Class-lessons.deps.json
+/Users/sergejpopovic/Projects/Class-lessons/Class-lessons/bin/Debug/net7.0/Class-lessons.runtimeconfig.json
+/Users/sergejpopovic/Projects/Class-lessons/Class-lessons/bin/Debug/net7.0/Class-lessons.dll
+/Users/sergejpopovic/Projects/Class-lessons/Class-lessons/bin/Debug/net7.0/Class-lessons.pdb
+/Users/sergejpopovic/Projects/Class-lessons/Class-lessons/obj/Debug/net7.0/Class-lessons.dll
+/Users/sergejpopovic/Projects/Class-lessons/Class-lessons/obj/Debug/net7.0/refint/Class-lessons.dll
+/Users/sergejpopovic/Projects/Class-lessons/Class-lessons/obj/Debug/net7.0/Class-lessons.pdb
+/Users/sergejpopovic/Projects/Class-lessons/Class-lessons/obj/Debug/net7.0/Class-lessons.genruntimeconfig.cache
+/Users/sergejpopovic/Projects/Class-lessons/Class-lessons/obj/Debug/net7.0/ref/Class-lessons.dll

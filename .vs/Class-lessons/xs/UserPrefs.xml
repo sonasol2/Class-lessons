@@ -1,4 +1,29 @@
 ﻿<Properties StartupConfiguration="{534BE15B-38B2-4F0E-940A-2B4CD971CB8C}|Default">
-  <MonoDevelop.Ide.ItemProperties.Class-lessons FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.Class-lessons PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Class-lessons/Person.cs">
+    <Files>
+      <File FileName="Class-lessons/Program.cs" Line="23" Column="29" />
+      <File FileName="Class-lessons/Person.cs" Line="35" Column="49" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Class-lessons" expanded="True">
+            <Node name="Class-lessons">
+              <Node name="Dependencies" expanded="True">
+                <Node name="FrameworkReferences" expanded="True" />
+              </Node>
+              <Node name="Person.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
   <MultiItemStartupConfigurations />
 </Properties>
